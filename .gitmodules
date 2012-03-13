@@ -1,0 +1,3 @@
+[submodule "custom/mintty-colors-solarized"]
+	path = custom/mintty-colors-solarized
+	url = git://github.com/karlin/mintty-colors-solarized.git
